@@ -3,6 +3,7 @@ Collection of interaction python tutorials for kids
 
 # **Intro to Python**
 Start with this introduction to Python by Trinket.io, then come back here and try some more advanced challenges.
+
 *Click here:* https://hourofpython.trinket.io/a-visual-introduction-to-python#/welcome/an-hour-of-code
 
 # **Old Enough to Drive?**
