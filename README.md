@@ -2,7 +2,7 @@
 Collection of interaction python tutorials for kids
 
 # **Strings**
-The simplest program is to print "Hello World!". Try it out and learn about comments in Python too.
+The simplest program is to print some text to the screen. Try it out and learn about comments in Python too.
 <p align="center">
   <a href="https://rawgit.com/astenwick/kids_python_tutorials/master/strings.html">
     <img src="http://www.identifont.com/samples/houseindustries/NeutraText.gif" width="250"/>
