@@ -11,6 +11,16 @@ Python can act like a calculator. Can you add a few more lines of math to the em
 
 *Click here:* https://rawgit.com/astenwick/kids_python_tutorials/master/math_and_numbers.html
 
+# **Strings**
+You saw how Python can print numbers and even the answers to Math expressions. Now use Python to print some text.
+<p align="center">
+  <a href="https://rawgit.com/astenwick/kids_python_tutorials/master/strings.html">
+    <img src="http://www.identifont.com/samples/houseindustries/NeutraText.gif" width="250"/>
+  </a>
+</p>
+
+*Click here:* https://rawgit.com/astenwick/kids_python_tutorials/master/strings.html
+
 # **Old Enough to Drive?**
 Are you old enough to drive? Run this program and input your age to find out. Then mix things up and see what happens: Can you change the legal driving age? Can you change the two if-statements into an if-else statement?
 
