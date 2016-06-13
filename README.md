@@ -5,7 +5,7 @@ Collection of interaction python tutorials for kids
 The simplest program is to print some text to the screen. Try it out and learn about comments in Python too.
 <p align="center">
   <a href="https://rawgit.com/astenwick/kids_python_tutorials/master/strings.html">
-    <img src="http://www.identifont.com/samples/houseindustries/NeutraText.gif" width="250"/>
+    <img src="http://www.htmliseasy.com/about_gifs/hello_world.gif" width="300"/>
   </a>
 </p>
 
@@ -18,8 +18,16 @@ Python can also print numbers and act like a calculator. Can you add a few more 
     <img src="http://www.newtechmachinery.com/wp-content/uploads/2011/09/calculator.png" width="250"/>
   </a>
 </p>
-
 *Click here:* https://rawgit.com/astenwick/kids_python_tutorials/master/math_and_numbers.html
+
+# **Variables**
+Variables are used to hold data, or values. Learn how to use them in Python.
+<p align="center">
+  <a href="https://rawgit.com/astenwick/kids_python_tutorials/master/variables.html">
+    <img src="http://img.c4learn.com/2012/02/Variable-in-Java.jpg" width="300"/>
+  </a>
+</p>
+*Click here:* https://rawgit.com/astenwick/kids_python_tutorials/master/variables.html
 
 # **Old Enough to Drive?**
 Are you old enough to drive? Run this program and input your age to find out. Then mix things up and see what happens: Can you change the legal driving age? Can you change the two if-statements into an if-else statement?
