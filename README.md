@@ -66,7 +66,8 @@ Are you old enough to drive? Run this program and input your age to find out. Th
 </p>
 
 *Click here:* https://rawgit.com/astenwick/kids_python_tutorials/master/how_old.html
- - Need a refresher on if-else statements? https://learnpython.trinket.io/learn-python-part-6-conditionals#/if-statements/if
+ - Need more help on if-else statements? 
+https://learnpython.trinket.io/learn-python-part-6-conditionals#/if-statements/if
 
 
 # **Rock, Paper, Scissors**
