@@ -47,6 +47,15 @@ Learn about using lists to store a collection and how to make a random choice fr
 </p>
 *Click here:* https://rawgit.com/astenwick/kids_python_tutorials/master/lists.html
 
+# **If-Else**
+Learn about True/False statements and how to use them with if-else.
+<p align="center">
+  <a href="https://rawgit.com/astenwick/kids_python_tutorials/master/if_else.html">
+    <img src="https://www.kirupa.com/html5/images/conditional_start_72.png" width="350"/>
+  </a>
+</p>
+*Click here:* https://rawgit.com/astenwick/kids_python_tutorials/master/if_else.html
+
 # **Old Enough to Drive?**
 Are you old enough to drive? Run this program and input your age to find out. Then mix things up and see what happens: Can you change the legal driving age? Can you change the two if-statements into an if-else statement?
 
