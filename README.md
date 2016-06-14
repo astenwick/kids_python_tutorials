@@ -38,6 +38,15 @@ Learn how to ask the user for information and then store this in a variable.
 </p>
 *Click here:* https://rawgit.com/astenwick/kids_python_tutorials/master/user_input.html
 
+# **Lists**
+Learn about using lists to store a collection and how to make a random choice from a list.
+<p align="center">
+  <a href="https://rawgit.com/astenwick/kids_python_tutorials/master/lists.html">
+    <img src="http://fossbytes.com/wp-content/uploads/2015/07/most-popular-programming-language-hackathon.jpg" width="300"/>
+  </a>
+</p>
+*Click here:* https://rawgit.com/astenwick/kids_python_tutorials/master/lists.html
+
 # **Old Enough to Drive?**
 Are you old enough to drive? Run this program and input your age to find out. Then mix things up and see what happens: Can you change the legal driving age? Can you change the two if-statements into an if-else statement?
 
