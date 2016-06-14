@@ -33,7 +33,7 @@ Variables are used to hold data, or values. Learn how to use them in Python.
 Learn how to ask the user for information and then store this in a variable.
 <p align="center">
   <a href="https://rawgit.com/astenwick/kids_python_tutorials/master/user_input.html">
-    <img src="https://i.ytimg.com/vi/K4Xdb_0uFeQ/hqdefault.jpg" width="300"/>
+    <img src="https://crohnsandtherealgirl.files.wordpress.com/2015/06/name-tag.jpg" width="300"/>
   </a>
 </p>
 *Click here:* https://rawgit.com/astenwick/kids_python_tutorials/master/user_input.html
