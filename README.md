@@ -42,7 +42,7 @@ Learn how to ask the user for information and then store this in a variable.
 Learn about using lists to store a collection and how to make a random choice from a list.
 <p align="center">
   <a href="https://rawgit.com/astenwick/kids_python_tutorials/master/lists.html">
-    <img src="http://fossbytes.com/wp-content/uploads/2015/07/most-popular-programming-language-hackathon.jpg" width="300"/>
+    <img src="http://fossbytes.com/wp-content/uploads/2015/07/most-popular-programming-language-hackathon.jpg" width="400"/>
   </a>
 </p>
 *Click here:* https://rawgit.com/astenwick/kids_python_tutorials/master/lists.html
