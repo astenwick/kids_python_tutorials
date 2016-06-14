@@ -1,5 +1,5 @@
-# kids_python_tutorials
-Collection of interaction python tutorials for kids
+# Kids Python Tutorials
+A collection of interactive python tutorials for kids
 
 # **Strings**
 The simplest program is to print some text to the screen. Try it out and learn about comments in Python too.
@@ -28,6 +28,15 @@ Variables are used to hold data, or values. Learn how to use them in Python.
   </a>
 </p>
 *Click here:* https://rawgit.com/astenwick/kids_python_tutorials/master/variables.html
+
+# **User Input**
+Learn how to ask the user for information and then store this in a variable.
+<p align="center">
+  <a href="https://rawgit.com/astenwick/kids_python_tutorials/master/user_input.html">
+    <img src="https://i.ytimg.com/vi/K4Xdb_0uFeQ/hqdefault.jpg" width="300"/>
+  </a>
+</p>
+*Click here:* https://rawgit.com/astenwick/kids_python_tutorials/master/user_input.html
 
 # **Old Enough to Drive?**
 Are you old enough to drive? Run this program and input your age to find out. Then mix things up and see what happens: Can you change the legal driving age? Can you change the two if-statements into an if-else statement?
