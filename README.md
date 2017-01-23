@@ -56,8 +56,8 @@ Learn about True/False statements and how to use them with if-else.
 </p>
 *Click here:* https://cdn.rawgit.com/astenwick/kids_python_tutorials/master/if_else.html
  
- # **I'm thinking of a number...**
- Play this simple game and learn about while-statements along with more user-input and if-else statements.
+# **I'm thinking of a number...**
+Play this simple game and learn about while-statements along with more user-input and if-else statements.
 <p align="center">
   <a href="https://rawgit.com/astenwick/kids_python_tutorials/master/im_thinking_of_a_number.html">
     <img src="https://dryuc24b85zbr.cloudfront.net/tes/resources/7106535/image?width=500&height=500&version=1439945873388" width="350"/>
