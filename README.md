@@ -64,6 +64,7 @@ Play this simple game and learn about while-statements along with more user-inpu
   </a>
 </p>
 *Click here:* https://rawgit.com/astenwick/kids_python_tutorials/master/im_thinking_of_a_number.html
+
 ------------------------------------------------------------------------------------------------------------------------
 # **Intro to Python**
 Prefer a visual introduction to Python? Start here with this tutorial by trinket.io:
